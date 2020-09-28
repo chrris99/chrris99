@@ -1,3 +1,5 @@
+UNDER CONSTRUCTION
+
 You can find me on
 <!-- Social Media -->
 <p align='left'>
@@ -48,6 +50,17 @@ Programming languages
   <img src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
  
 </p>
+
+Stuff i use
+<p align='left'>
+  
+  <!-- iOS -->
+  <img src="https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white&style=for-the-badge" />
+  <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" />
+
+ 
+</p>
+
 
 
 <!-- GitHub stats
