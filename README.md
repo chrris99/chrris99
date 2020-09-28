@@ -10,17 +10,17 @@ You can find me on
   <!-- Facebook -->
   <a href="https://www.facebook.com/conforti.christian/">
     <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />    
-  </a>&nbsp;&nbsp;
+  </a>
   
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/christianconforti/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>&nbsp;&nbsp;
+  </a>
   
   <!-- Instagram -->
   <a href="https://www.instagram.com/conforti_christian/">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" />        
-  </a>&nbsp;&nbsp;
+  </a>
 </p>
 
 Tech
