@@ -30,7 +30,8 @@ Programming languages
 <p align='left'>
   
   <!-- Python -->
-  <img src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
+  [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
+  <img src="https://img.shields.io/badge/Python-%2314354C.svg?&style=flat-square&logo=python&logoColor=white" />
   
   <!-- C++ -->
   <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
