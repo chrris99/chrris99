@@ -27,44 +27,26 @@ You can find me on
   </a>
 </p>
 
+<!--
 Tech
 Programming languages
-<p align='left'>
-  
-  <!-- Python -->
+<p align='left'
   [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/){:target="_blank"}
   <img src="https://img.shields.io/badge/Python-%2314354C.svg?&style=flat-square&logo=python&logoColor=white" />
-  
-  <!-- C++ -->
   <img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  
-  <!-- Java -->
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
-  
-  <!-- C -->
   <img src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
-  
-  <!-- Golang -->
   <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" />
-  
   <img src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/python-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
- 
 </p>
-
 Stuff i use
 <p align='left'>
-  
-  <!-- iOS -->
   <img src="https://img.shields.io/badge/iOS-000000?logo=ios&logoColor=white&style=for-the-badge" />
   <img src="https://img.shields.io/badge/windows-0078D6?logo=windows&logoColor=white&style=for-the-badge" />
-
- 
-</p>
-
-
+</p> -->
 
 <!-- GitHub stats
 ![chrris99's github stats](https://github-readme-stats.vercel.app/api?username=chrris99&count_private=true&show_icons=true) -->
