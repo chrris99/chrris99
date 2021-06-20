@@ -1,8 +1,8 @@
 ![Welcome!](https://raw.githubusercontent.com/chrris99/chrris99/master/img/banner.png)
 
-### Get in touch
 <!-- Social Media -->
-<p align='left'>
+<h3 align='center'>Get in touch</h3>
+<p align='center'>
   
   <!-- Email -->
   <a href="mailto:conforti.christian@gmail.com">
