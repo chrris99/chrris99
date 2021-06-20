@@ -1,4 +1,4 @@
-## Hi, there! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+![Welcome!](https://raw.githubusercontent.com/chrris99/chrris99/master/img/banner.png)
 
 ### Get in touch
 <!-- Social Media -->
